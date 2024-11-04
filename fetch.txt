@@ -1,1 +1,2 @@
 This line changed from GitHub by Dev1
+This is th line changed from Git by Dev2
