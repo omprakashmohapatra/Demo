@@ -2,3 +2,7 @@ This line changed from GitHub by Dev1
 This is th line changed from Git by Dev2
 
 This is line 4 from Github
+
+
+
+This is line 7 from git
